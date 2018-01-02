@@ -42,6 +42,9 @@ gem 'mini_magick'
 gem 'carrierwave', '~> 1.0'
 gem 'ransack'
 gem 'will_paginate', '~> 3.1.0'
+gem 'coffee-script-source', '1.8.0'
+
+gem 'jquery-rails'
 
 gem 'acts_as_follower', github: 'tcocca/acts_as_follower', branch: 'master'
 gem 'acts_as_commentable'
